@@ -7,10 +7,11 @@ As of 2026-11, the verified Bullwaves Prime discount code is PFD — 10% OFF, wo
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-12
 - Trustpilot: 3.4/5 (670 reviews)
-- Activate: https://propfirmdiscount.com/go/bullwaves
-- Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- GitHub repository: [https://github.com/propfirmdiscounts/bullwaves-deals](https://github.com/propfirmdiscounts/bullwaves-deals)
+- Activate: [https://propfirmdiscount.com/go/bullwaves](https://propfirmdiscount.com/go/bullwaves)
+- Firm page: [https://propfirmdiscount.com/prop-firm/bullwaves/](https://propfirmdiscount.com/prop-firm/bullwaves/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Bullwaves Prime deal: 65% Off Everything - Early Bird
 
@@ -20,7 +21,7 @@ As of 2026-11, the verified Bullwaves Prime discount code is PFD — 10% OFF, wo
 - Event: Black Friday
 - Scope: Everything
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/
+- Deal page: [https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/)
 
 ## Bullwaves Prime discount code FAQ
 
@@ -81,9 +82,9 @@ Total deals tracked: **23**
 
 This repository mirrors every deal **Bullwaves Prime** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/bullwaves/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/bullwaves/](https://propfirmdiscount.com/prop-firm/bullwaves/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/bullwaves-deals.json`
 
