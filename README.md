@@ -1,4 +1,4 @@
-# Bullwaves Prime Discount Code & Deal History
+# Bullwaves Prime Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Bullwaves Prime discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "60% Off Plus BOGO After Payout".
 
@@ -7,7 +7,7 @@ As of November 2026, the verified Bullwaves Prime discount code is PFD — 10% O
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
 - Trustpilot: [3.4/5 (668 reviews)](https://www.trustpilot.com/review/bullwaves.com)
-- GitHub repository: [Bullwaves Prime Deals Repository](https://github.com/propfirmdiscounts/bullwaves-deals)
+- GitHub repository: [Bullwaves Prime Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/bullwaves-deals)
 - Activate: [Activate Bullwaves Prime Discount Code](https://propfirmdiscount.com/go/bullwaves)
 - Firm page: [Bullwaves Prime Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/bullwaves/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -23,7 +23,7 @@ As of November 2026, the verified Bullwaves Prime discount code is PFD — 10% O
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Bullwaves Prime Deal Page](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/)
 
-## Bullwaves Prime Discount Code & Deals FAQ
+## Bullwaves Prime Discount Code & Deals History FAQ
 
 **What is the Bullwaves Prime discount code?**
 
@@ -39,7 +39,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Bullwaves Prime Deal History
+## Bullwaves Prime Deals History
 
 Total deals tracked: **24**
 
@@ -79,7 +79,7 @@ Total deals tracked: **24**
 
 ---
 
-## About the Bullwaves Prime Deals Dataset
+## About the Bullwaves Prime Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Bullwaves Prime** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -87,7 +87,7 @@ This repository mirrors every deal **Bullwaves Prime** has published on PropFirm
 - Prop firm profile: [Bullwaves Prime Profile](https://propfirmdiscount.com/prop-firm/bullwaves/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Bullwaves Prime Deal Dataset: Field Definitions
+## Bullwaves Prime Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
