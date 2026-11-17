@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13247,
+    "title": "60% Off Plus BOGO After Payout",
+    "offer_type": "coupon",
+    "discount_value": "60%",
+    "scope": [
+      "Everything"
+    ],
+    "date_published": "2026-11-16",
+    "date_exp": "2026-11-30",
+    "event": "Black Friday",
+    "last_verified": "2026-11-16",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/",
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/"
+  },
+  {
     "deal_id": 13226,
     "title": "65% Off Everything - Early Bird",
     "offer_type": "coupon",
