@@ -6,7 +6,7 @@ As of November 2026, the verified Bullwaves Prime discount code is PFD — 10% O
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
-- Trustpilot: [3.4/5 (668 reviews)](https://www.trustpilot.com/review/bullwaves.com)
+- Trustpilot: [3.4/5 (654 reviews)](https://www.trustpilot.com/review/bullwaves.com)
 - GitHub repository: [Bullwaves Prime Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/bullwaves-deals)
 - Activate: [Activate Bullwaves Prime Discount Code](https://propfirmdiscount.com/go/bullwaves)
 - Firm page: [Bullwaves Prime Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/bullwaves/)
